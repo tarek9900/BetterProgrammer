@@ -16,7 +16,7 @@
           return true if the parameter is a palindrome and false otherwise.
           
           
-###Task 3 
+### Task 3 
 
 
           Please implement this method to
